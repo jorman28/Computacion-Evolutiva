@@ -1,0 +1,3 @@
+1) Tener instalado Python
+2) Abrir la linea de comandos cmd
+3) Ejecutar el siguiente script: python GeneticAlgorithm.py
